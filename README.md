@@ -1,2 +1,2 @@
 # FAMAF
-Repositorio con los laboratorios de las materias de la licenciatura en ciencias de la computacion
+En este repositorio se encuentran los proyectos de las materias de Licenciatura en Ciencias de la Computación.

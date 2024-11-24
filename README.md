@@ -1,1 +1,2 @@
 # FAMAF
+Este repositorio contiene los laboratorios de las materias correspondientes a la carrera de Licenciatura en Ciencias de la Computación de la Facultad de Matemática, Astronomía, Física y Computación (FAMAF). Aquí encontrarás los ejercicios prácticos y proyectos desarrollados a lo largo de la cursada.

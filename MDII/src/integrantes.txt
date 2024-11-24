@@ -1,0 +1,6 @@
+Proyecto de programación de Matemática Discreta II - Primera Parte
+
+Integrantes del grupo:
+Brunello, Florencia: florenciabrunello@mi.unc.edu.ar
+Farace, Agustín: agustin.farace@mi.unc.edu.ar
+Ferrero, Andrés Valentino: andres.ferrero@mi.unc.edu.ar

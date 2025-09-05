@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code settings folder
+.vscode
+
+# Ignore Eclipse project files
+.project
+
+# Ignore DBeaver configuration folder
+.dbeaver

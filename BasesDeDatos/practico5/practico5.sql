@@ -187,7 +187,18 @@ GRANT INSERT, DELETE, UPDATE ON sakila.rental TO employee;
 
 -- Ejercicio 14
 
+REVOKE DELETE ON rental FROM employee;
 
+CREATE ROLE administrator;
 
+GRANT ALL PRIVILEGES ON sakila TO administrator;
+
+-- Ejercicio 15
+
+CREATE ROLE employee1;
+CREATE ROLE employee2;
+
+GRANT employee TO employee1;
+GRANT administrator TO employee2;
 
 

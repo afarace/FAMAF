@@ -1,3 +1,17 @@
+# Feed Reader - Procesador de Feeds RSS y Reddit
+
+## Descripción
+Este proyecto es un lector y procesador de feeds RSS y Reddit desarrollado en Java. Permite obtener, analizar y gestionar noticias de diversas fuentes, identificando entidades nombradas y facilitando la suscripción a diferentes canales de información.
+
+## Características principales
+- Implementación en Java con diseño modular y orientado a objetos.
+- Obtención de datos desde feeds RSS y Reddit mediante peticiones HTTP.
+- Parsers personalizados para distintos formatos de feed.
+- Análisis de entidades nombradas: personas, lugares, organizaciones, fechas, productos y eventos.
+- Heurísticas para la identificación automática de entidades en los textos.
+- Gestión de suscripciones y conteo de artículos por fuente.
+- Servicios REST para interacción y consulta de información.
+- Uso de librerías externas para manejo de JSON.
 # Lector automático de Feeds RRS con Apache Spark
 
 ## Configuración del entorno y ejecución

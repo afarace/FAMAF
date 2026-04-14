@@ -6,3 +6,6 @@
 
 # Ignore DBeaver configuration folder
 .dbeaver
+
+# Ignore Python virtual environment folder
+.venv

@@ -49,7 +49,7 @@ def aceptacion_y_rechazo():
     X = [i for i in range(1, 11)]
     p = [0.11, 0.14, 0.09, 0.08, 0.12, 0.10, 0.09, 0.07, 0.11, 0.09]
 
-    # Valores y probabilidades de X
+    # Valores y probabilidades de Y
     Y = [i for i in range(1, 11)]
     q = [1 / 10] * 10
 
